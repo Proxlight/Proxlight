@@ -5,7 +5,6 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/Proxlight1" target="blank"><img src="https://img.shields.io/twitter/follow/proxlight01?logo=twitter&style=for-the-badge" alt="proxlight1" /></a> </p>
 
 - 👯 I’m looking to collaborate on [Proxlight Designer](https://github.com/Proxlight/Proxlight-Designer-v2)
 
